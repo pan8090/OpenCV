@@ -1,5 +1,6 @@
 # OpenCV
 OpenCV学习过程的简单记录
+用到的模块有：
 ```
 (venv) D:\Python_exec\faceid>pip list
 Package                  Version
