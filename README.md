@@ -2,7 +2,9 @@
 OpenCV学习过程的简单记录
 (venv) D:\Python_exec\faceid>pip list
 Package                  Version
+
 ------------------------ ---------
+
 absl-py                  0.10.0
 anaconda                 0.0.1.1
 asgiref                  3.2.10
